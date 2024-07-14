@@ -2,7 +2,7 @@ import tkinter as tk
 
 # ایجاد پنجره اصلی
 root = tk.Tk()
-root.title("ماشین حساب ساده")
+root.title("Calculator")
 
 # ایجاد ورودی برای نمایش نتایج
 entry = tk.Entry(root, width=35, borderwidth=5)
